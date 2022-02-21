@@ -13,6 +13,7 @@ Food ordering application made with Kotlin, Retrofit and Firebase
 - Google Location Services
 - Navigation Component
 # Features 
+- Splash Screen and animation
 - Login
 - Register
 - View Food List
