@@ -33,6 +33,10 @@ Food ordering application made with Kotlin, Retrofit and Firebase
 
  ![Screenshot_1645294660](https://user-images.githubusercontent.com/49489211/154983864-3b57d590-2632-4110-98aa-f65470f2bff5.png) ![Screenshot_1645294667](https://user-images.githubusercontent.com/49489211/154983885-895ba78a-c454-41e0-a87e-431b3594f2b5.png) ![Screenshot_1645294688](https://user-images.githubusercontent.com/49489211/154983905-24784558-a7bc-4265-9546-c850e732f036.png)
 
+![Screenshot_1645294649](https://user-images.githubusercontent.com/49489211/154984303-8b06bc72-e9fd-4f7c-868f-8c6273db4e7e.png) ![Screenshot_1645294710](https://user-images.githubusercontent.com/49489211/154984341-bd1b2d19-5db0-46d2-a561-1935fe2f115a.png) ![Screenshot_1645295083](https://user-images.githubusercontent.com/49489211/154984401-c340d914-97e4-488e-a7ca-b36dca359582.png)
+
+![Screenshot_1645295070](https://user-images.githubusercontent.com/49489211/154984440-e759e9a6-63f3-4738-bb1d-a510c6df8179.png)
+
 
 
 
