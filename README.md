@@ -27,6 +27,12 @@ Food ordering application made with Kotlin, Retrofit and Firebase
 - View location list
 - Delete location from list
 - View comment list and Add comment 
+# Splash Screen
+
+
+https://user-images.githubusercontent.com/49489211/154984898-394116f1-7f8b-406a-a122-3a36a411ac4b.mp4
+
+
 # Screenshots
 ![Screenshot_1645294609](https://user-images.githubusercontent.com/49489211/154984167-3b743c95-4efe-447d-8f8c-d9957bd13b4e.png) ![Screenshot_1645294616](https://user-images.githubusercontent.com/49489211/154984192-a40c3416-9df5-4259-8494-d6cbc08fe845.png)
 
