@@ -18,6 +18,7 @@ Food ordering application made with Kotlin, Retrofit and Firebase
 - Register
 - View Food List
 - View Food Details
+- Search Food
 - Add food to basket
 - Delete food from basket
 - View your user profil
